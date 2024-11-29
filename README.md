@@ -14,7 +14,7 @@
 
 ## 🌐 Live Demo
 
-Explore the project live at: **[Epiccodeee's View on Soccer](https://epiccodeee.github.io/Epiccodeee-Soccer-View/)**
+Explore the project live at: **[Epiccodeee's View on Soccer](https://epiccodeee.github.io/Soccer-Web-Page/)**
 
 ---
 
